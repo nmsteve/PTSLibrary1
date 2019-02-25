@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 namespace PTSLibrary
 {
+    [Serializable]
     public class Project
     {
         private string name;
